@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Troye Xie # 如果为空，则使用全名
+title: Troye Xie # 网页标题
 first_name: Troye
 middle_name: 
 last_name: Xie
 contact_note: >
-  Ophthalmology PhD Student.
+  PhD Student in Ophthalmology.
 description: >
   PhD Student in Ophthalmology. Researching medical imaging and AI.
 footer_text: >
